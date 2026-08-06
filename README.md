@@ -1,9 +1,7 @@
 ## Hi there 👋
 
-<!--
-**hZanela/hZanela** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+<img width="250" height="280" alt="despicablememinionsGIF" src="https://github.com/user-attachments/assets/1056b6c2-33d5-4690-9329-cfa951e7e01d" />
 
-Here are some ideas to get you started:
 
 - 🔭 I’m currently working on ...
 - 🌱 I’m currently learning ...
