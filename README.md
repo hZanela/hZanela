@@ -12,7 +12,7 @@
 
 
 <p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Poppins&weight=600&size=24&duration=3500&pause=900&color=7AA2F7&center=true&vCenter=true&width=700&lines=Transformando+ideias+em+c%C3%B3digo;Construindo+meu+futuro+na+tecnologia;Um+commit+de+cada+vez;Sempre+aprendendo%2C+sempre+evoluindo+%F0%9F%9A%80" />
+  <img src="https://readme-typing-svg.herokuapp.com?font=Poppins&weight=600&size=24&duration=3500&pause=900&color=8B5CF6&center=true&vCenter=true&width=700&lines=Transformando+ideias+em+c%C3%B3digo;Construindo+meu+futuro+na+tecnologia;Um+commit+de+cada+vez;Sempre+aprendendo%2C+sempre+evoluindo+%F0%9F%9A%80" />
 </p>
 
 
@@ -25,25 +25,26 @@
 
 
 ```typescript
-const Heitor Zanela = {
-    cargo: "Engenheiro de Software",
+const heitor = {
+    cargo: "Estudante de ADS",
     localizacao: "Goiânia - GO",
 
     desenvolvimento: [
-        "Java Applications",
+        "Aplicações Java",
         "Projetos Acadêmicos"
     ],
 
     aprendendo: [
         "Java",
         "Banco de Dados",
-        "Spring Boots",
-        "Rest APIs"
+        "Spring Boot",
+        "REST APIs"
     ],
 
     tecnologias: {
-        backend: ["Java", "Spring Boot"],
-        banco_de_dados: ["MySQL"]
+        backend: ["Java"],
+        banco_de_dados: ["MySQL"],
+        ferramentas: ["Git", "GitHub", "VS Code"]
     }
 };
 ```
@@ -71,26 +72,27 @@ const Heitor Zanela = {
 -->
 ## 📬 Contate-me
 <br>
-
 <p align="center">
-  <a href="https://www.linkedin.com/in/heitorzanela/">
-    <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" height="35"/>
-  </a>
-  &nbsp;
-  <a href="https://www.instagram.com/h.zanela">
-    <img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" height="35"/>
-  </a>
-  &nbsp;
-  <a href="mailto:heizanela@gmail.com">
-    <img src="https://img.shields.io/badge/Gmail-EA4335?style=for-the-badge&logo=gmail&logoColor=white" height="35"/>
-  </a>
+<a href="https://www.linkedin.com/in/heitorzanela/">
+<img src="https://img.shields.io/badge/LinkedIn-8B5CF6?style=for-the-badge&logo=linkedin&logoColor=white"/>
+</a>
+&nbsp;
+<a href="https://www.instagram.com/h.zanela">
+<img src="https://img.shields.io/badge/Instagram-8B5CF6?style=for-the-badge&logo=instagram&logoColor=white"/>
+</a>
+&nbsp;
+<a href="mailto:heizanela@gmail.com">
+<img src="https://img.shields.io/badge/Gmail-8B5CF6?style=for-the-badge&logo=gmail&logoColor=white"/>
+</a>
 </p>
 <br>
 
 ## 🛠️ Stack de Tecnologias 
 
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=java,python,html,css,tailwind,git,github,vscode,vercel,powershell,lrline=11"/>
+
+<img src="https://skillicons.dev/icons?i=java,html,css,mysql,git,github,vscode&perline=7"/>
+
 </p>
 
 
@@ -131,29 +133,32 @@ const Heitor Zanela = {
 ## 📈 Gráfico de Contribuição 
 
 <p align="center">
-  <img width="100%" src="https://github-readme-activity-graph.vercel.app/graph?username=hZanela&theme=tokyo-night&hide_border=true&line=00E5FF&point=FFFFFF&area=true&area_color=00E5FF&color=00E5FF&title_color=00E5FF&bg_color=1A1B27"/>
+
+<img width="100%"
+src="https://github-readme-activity-graph.vercel.app/graph?username=hZanela&theme=tokyo-night&hide_border=true&line=8B5CF6&point=C084FC&area=true&area_color=8B5CF6&color=C084FC&title_color=C084FC&bg_color=0D1117"/>
+
 </p>
 
 
 ## 📋 Visão Geral
 
 <p align="center">
-  <img height="32" src="https://komarev.com/ghpvc/?username=hZanela&label=PROFILE+VIEWS&style=for-the-badge&labelColor=181717&color=8B5CF6"/>
+  <img height="32" src="https://komarev.com/ghpvc/?username=hZanela&label=PROFILE+VIEWS&style=for-the-badge&labelColor=0D1117&color=A855F7"/>
 </p>
-
 <br>
-
-
 <p align="center">
-  <img src="https://img.shields.io/badge/dynamic/json?style=for-the-badge&logo=github&logoColor=white&label=REPOSITORIES&labelColor=181717&color=F43F5E&query=public_repos&url=https://api.github.com/users/hZanela"/>
-  &nbsp;&nbsp;&nbsp;&nbsp;
-  <img src="https://img.shields.io/github/followers/hZanela?style=for-the-badge&logo=github&logoColor=white&label=FOLLOWERS&labelColor=181717&color=38BDF8"/>
-  &nbsp;&nbsp;&nbsp;&nbsp;
-  <img src="https://img.shields.io/github/stars/hZanela?affiliations=OWNER&style=for-the-badge&logo=github&logoColor=white&label=STARS&labelColor=181717&color=22C55E"/>
+<img src="https://img.shields.io/badge/dynamic/json?style=for-the-badge&logo=github&logoColor=white&label=REPOSITORIES&labelColor=0D1117&color=8B5CF6&query=public_repos&url=https://api.github.com/users/hZanela"/>
+&nbsp;&nbsp;
+<img src="https://img.shields.io/github/followers/hZanela?style=for-the-badge&logo=github&logoColor=white&label=FOLLOWERS&labelColor=0D1117&color=A855F7"/>
+&nbsp;&nbsp;
+<img src="https://img.shields.io/github/stars/hZanela?affiliations=OWNER&style=for-the-badge&logo=github&logoColor=white&label=STARS&labelColor=0D1117&color=C084FC"/>
 </p>
+<p align="center"> ⭐ <b> Conecte-se comigo </b> ⭐ </p>
 
 <p align="center">
-  ⭐ <b>Connect with <a href="https://github.com/hZanela">hZanela</a></b> ⭐
+  <a href="https://github.com/hZanela">
+    <img src="https://img.shields.io/badge/💜%20hZanela-8B5CF6?style=for-the-badge&logo=github&logoColor=white"/>
+  </a>
 </p>
 
 <p align="center">
@@ -169,14 +174,10 @@ const Heitor Zanela = {
 </p>
 
 
-
-
-
-
 <p align="center">
   <img
     width="100%"
-    src="https://capsule-render.vercel.app/api?type=waving&section=footer&height=150&text=Obrigado%20por%20Visitar!&fontSize=24&fontColor=ffffff&animation=fadeIn&color=D1D5DB"
+    src="https://capsule-render.vercel.app/api?type=waving&section=footer&height=150&text=Obrigado%20por%20Visitar!&fontSize=24&fontColor=ffffff&animation=fadeIn&color=8B5CF6"
   />
 </p>
 
