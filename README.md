@@ -1,14 +1,7 @@
-<!-- ==========================================
-==============================================
--->
 
-<!--                                  HEADER -->
-
-<!-- ==========================================
-==============================================
--->
-
-
+<p align="center">
+<img src="assets/headerAizen.png"/>
+</p>
 
 
 <p align="center">
@@ -56,7 +49,7 @@ const heitor = {
 
 <td width="42%" align="center">
 
-<img src="https://64.media.tumblr.com/fe4f5cf2401ff266b34ef82791f11734/7e66e38f766b84c0-8a/s500x750/be2e2aca769f0a671dd8e32d55cae58f12e82460.gif" width="360"/>
+<img src="https://i.pinimg.com/736x/30/ab/49/30ab497081151ed5fdf8afd7c798b8e1.jpg" width="360"/>
 
 </td>
 </tr>
@@ -94,21 +87,6 @@ const heitor = {
 <img src="https://skillicons.dev/icons?i=java,html,css,mysql,git,github,vscode&perline=7"/>
 
 </p>
-
-
-<!-- ==========================================
-==============================================
--->
-
-<!--                              CURRENT FOCUS -->
-
-<!-- ==========================================
-==============================================
--->
-
-
-
-
 
 ## 📊 Estáticas GitHub 
 
@@ -181,14 +159,8 @@ src="https://github-readme-activity-graph.vercel.app/graph?username=hZanela&them
   />
 </p>
 
-<!-- ==========================================
-==============================================
--->
-
-<!--                                  FOOTER -->
-
-<!-- ==========================================
-==============================================
--->
+<p align="center">
+<img src="assets/fotter.png"/>
+</p>
 
 
