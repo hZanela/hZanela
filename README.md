@@ -8,12 +8,12 @@
   <img src="https://readme-typing-svg.herokuapp.com?font=Poppins&weight=600&size=24&duration=3500&pause=900&color=8B5CF6&center=true&vCenter=true&width=700&lines=Transformando+ideias+em+c%C3%B3digo;Construindo+meu+futuro+na+tecnologia;Um+commit+de+cada+vez;Sempre+aprendendo%2C+sempre+evoluindo+%F0%9F%9A%80" />
 </p>
 
-
 ## 🎯 Sobre mim
+
 
 <table>
 <tr>
-<td width="58%" valign="top">
+<td width="50%" valign="top">
 
 
 
@@ -40,6 +40,19 @@ const heitor = {
         ferramentas: ["Git", "GitHub", "VS Code"]
     }
 };
+
+
+
+
+
+
+
+
+
+
+
+
+
 ```
 
 <br>
@@ -47,7 +60,7 @@ const heitor = {
 
 </td>
 
-<td width="42%" align="center">
+<td width="50%" align="center">
 
 <img src="https://i.pinimg.com/736x/30/ab/49/30ab497081151ed5fdf8afd7c798b8e1.jpg" width="360"/>
 
