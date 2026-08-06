@@ -16,7 +16,7 @@
 </p>
 
 
-## 🎯 About Me
+## 🎯 Sobre mim
 
 <table>
 <tr>
@@ -69,7 +69,7 @@ const Heitor Zanela = {
 <!-- ==========================================
 ==============================================
 -->
-## 📬 Connect With Me
+## 📬 Contate-me
 <br>
 
 <p align="center">
