@@ -108,7 +108,7 @@ const Heitor Zanela = {
 
 
 
-## 📊 GitHub Analytics
+## 📊 Estáticas GitHub 
 
 <p align="center">
   <img width="49%" src="https://github-readme-stats.vercel.app/api?username=hZanela&show_icons=true&theme=tokyonight&hide_border=true&rank_icon=github&include_all_commits=true&count_private=true" />
@@ -135,59 +135,47 @@ const Heitor Zanela = {
   <img width="49%" src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=hZanela&theme=tokyonight"/>
 </p>
 
-## 📈 Contribution Graph
+PACMAN
+
+## 📈 Gráfico de Contribuição 
 
 <p align="center">
   <img width="100%" src="https://github-readme-activity-graph.vercel.app/graph?username=hZanela&theme=tokyo-night&hide_border=true&line=00E5FF&point=FFFFFF&area=true&area_color=00E5FF&color=00E5FF&title_color=00E5FF&bg_color=1A1B27"/>
 </p>
 
 
-COBRA
-<p align="center">
-  
-</p>
-
-
-
-
-
-
-
-
-## 📋 GitHub Profile Summary
+## 📋 Visão Geral
 
 <p align="center">
-  <img height="32" src="https://komarev.com/ghpvc/?username=Sairaj2033&label=PROFILE+VIEWS&style=for-the-badge&labelColor=181717&color=8B5CF6"/>
+  <img height="32" src="https://komarev.com/ghpvc/?username=hZanela&label=PROFILE+VIEWS&style=for-the-badge&labelColor=181717&color=8B5CF6"/>
 </p>
 
 <br>
 
 
 <p align="center">
-  <img src="https://img.shields.io/badge/dynamic/json?style=for-the-badge&logo=github&logoColor=white&label=REPOSITORIES&labelColor=181717&color=F43F5E&query=public_repos&url=https://api.github.com/users/Sairaj2033"/>
+  <img src="https://img.shields.io/badge/dynamic/json?style=for-the-badge&logo=github&logoColor=white&label=REPOSITORIES&labelColor=181717&color=F43F5E&query=public_repos&url=https://api.github.com/users/hZanela"/>
   &nbsp;&nbsp;&nbsp;&nbsp;
-  <img src="https://img.shields.io/github/followers/Sairaj2033?style=for-the-badge&logo=github&logoColor=white&label=FOLLOWERS&labelColor=181717&color=38BDF8"/>
+  <img src="https://img.shields.io/github/followers/hZanela?style=for-the-badge&logo=github&logoColor=white&label=FOLLOWERS&labelColor=181717&color=38BDF8"/>
   &nbsp;&nbsp;&nbsp;&nbsp;
-  <img src="https://img.shields.io/github/stars/Sairaj2033?affiliations=OWNER&style=for-the-badge&logo=github&logoColor=white&label=STARS&labelColor=181717&color=22C55E"/>
+  <img src="https://img.shields.io/github/stars/hZanela?affiliations=OWNER&style=for-the-badge&logo=github&logoColor=white&label=STARS&labelColor=181717&color=22C55E"/>
 </p>
 
 <p align="center">
-  ⭐ <b>Connect with <a href="https://github.com/Sairaj2033">Sairaj Patil</a></b> ⭐
+  ⭐ <b>Connect with <a href="https://github.com/hZanela">hZanela</a></b> ⭐
 </p>
 
 <p align="center">
-  <i>"Turning ideas into intelligent solutions, one commit at a time!"</i> 🚀
+  <i>"Aprendendo, evoluindo e transformando ideias em código, um commit de cada vez."</i> 🚀
 </p>
 
 ---
 
-
 <p align="center">
   <img src="https://camo.githubusercontent.com/6b9c2a342f778248d0e947a1a4e7d332e59dadc140de25650cd23d2dd45a86f6/68747470733a2f2f6d656469612e67697068792e636f6d2f6d656469612f4c6e516a7057614f4e386e68723231764e572f67697068792e676966" width="52" valign="middle"/>
   &nbsp;
-  <i><b>I love connecting with different people so if you want to say hi, I'll be happy to meet you! 😊<b></i>
+  <i><b>Estou sempre em busca de novos aprendizados e desafios. Se quiser trocar uma ideia sobre tecnologia ou desenvolvimento, será um prazer conversar! </b></i>
 </p>
-
 
 
 
@@ -197,13 +185,18 @@ COBRA
 <p align="center">
   <img
     width="100%"
-    src="https://capsule-render.vercel.app/api?type=waving&section=footer&height=150&text=Thanks%20for%20Visiting!&fontSize=24&fontColor=ffffff&animation=fadeIn&color=D1D5DB"
+    src="https://capsule-render.vercel.app/api?type=waving&section=footer&height=150&text=Obrigado%20por%20Visitar!&fontSize=24&fontColor=ffffff&animation=fadeIn&color=D1D5DB"
   />
 </p>
 
+<!-- ==========================================
+==============================================
+-->
+
+<!--                                  FOOTER -->
+
+<!-- ==========================================
+==============================================
+-->
 
 
-
-<p align="center">
-  <img width="100%" src="https://raw.githubusercontent.com/Sairaj2033/Sairaj2033/main/assets/Open to Collaboration_20260712_014150_0000.png"/>
-</p>
