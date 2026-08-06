@@ -135,7 +135,15 @@ const Heitor Zanela = {
   <img width="49%" src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=hZanela&theme=tokyonight"/>
 </p>
 
-PACMAN
+<picture>
+  <source media="(prefers-color-scheme: dark)"
+    srcset="https://raw.githubusercontent.com/hZanela/hZanela/output/pacman-contribution-graph-dark.svg">
+
+  <source media="(prefers-color-scheme: light)"
+    srcset="https://raw.githubusercontent.com/hZanela/hZanela/output/pacman-contribution-graph.svg">
+
+  <img src="https://raw.githubusercontent.com/hZanela/hZanela/output/pacman-contribution-graph-dark.svg">
+</picture>
 
 ## 📈 Gráfico de Contribuição 
 
