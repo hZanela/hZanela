@@ -1,14 +1,209 @@
-## Hi there 👋
-
-<img width="250" height="280" alt="despicablememinionsGIF" src="https://github.com/user-attachments/assets/1056b6c2-33d5-4690-9329-cfa951e7e01d" />
-
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
+<!-- ==========================================
+==============================================
 -->
+
+<!--                                  HEADER -->
+
+<!-- ==========================================
+==============================================
+-->
+
+<img width="100%" src="/assets/Sairaj_Banner.png"/>
+
+
+<p align="center">
+  <img src="https://readme-typing-svg.herokuapp.com?font=Poppins&weight=600&size=24&duration=3500&pause=900&color=7AA2F7&center=true&vCenter=true&width=700&lines=Artificial+Intelligence+%26+Machine+Learning;Full+Stack+MERN+Developer;Building+AI+Powered+Systems;Open+Source+Contributor;Data+Structure+Algorithm;Always+Learning+Something+New+%F0%9F%9A%80" />
+</p>
+
+
+## 🎯 About Me
+
+<table>
+<tr>
+<td width="58%" valign="top">
+
+
+
+```typescript
+const Heitor Zanela = {
+    cargo: "Engenheiro de Software",
+    localizacao: "Goiânia - GO",
+
+    desenvolvimento: [
+        "Java Applications",
+        "Projetos Acadêmicos"
+    ],
+
+    aprendendo: [
+        "Java",
+        "Banco de Dados",
+        "Spring Boots",
+        "Rest APIs"
+    ],
+
+    tecnologias: {
+        backend: ["Java", "Spring Boot"],
+        banco_de_dados: ["MySQL"]
+    }
+};
+```
+
+<br>
+
+
+</td>
+
+<td width="42%" align="center">
+
+<img src="https://64.media.tumblr.com/fe4f5cf2401ff266b34ef82791f11734/7e66e38f766b84c0-8a/s500x750/be2e2aca769f0a671dd8e32d55cae58f12e82460.gif" width="360"/>
+
+</td>
+</tr>
+</table>
+<!-- ==========================================
+==============================================
+-->
+
+<!--                                 TECH STACK -->
+
+<!-- ==========================================
+==============================================
+-->
+## 📬 Connect With Me
+<br>
+
+<p align="center">
+  <a href="https://www.linkedin.com/in/heitorzanela/">
+    <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" height="35"/>
+  </a>
+  &nbsp;
+  <a href="https://www.instagram.com/h.zanela">
+    <img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" height="35"/>
+  </a>
+  &nbsp;
+  <a href="mailto:heizanela@gmail.com">
+    <img src="https://img.shields.io/badge/Gmail-EA4335?style=for-the-badge&logo=gmail&logoColor=white" height="35"/>
+  </a>
+</p>
+<br>
+
+## 🛠️ Stack de Tecnologias 
+
+<p align="center">
+  <img src="https://skillicons.dev/icons?i=java,python,html,css,tailwind,git,github,vscode,vercel,powershell,lrline=11"/>
+</p>
+
+
+<!-- ==========================================
+==============================================
+-->
+
+<!--                              CURRENT FOCUS -->
+
+<!-- ==========================================
+==============================================
+-->
+
+
+
+
+
+## 📊 GitHub Analytics
+
+<p align="center">
+  <img width="49%" src="https://github-readme-stats.vercel.app/api?username=hZanela&show_icons=true&theme=tokyonight&hide_border=true&rank_icon=github&include_all_commits=true&count_private=true" />
+  <img width="49%" src="https://streak-stats.demolab.com?user=hZanela&theme=tokyonight&hide_border=true" />
+</p>
+
+<p align="center">
+  <img width="40%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=hZanela&layout=compact&theme=tokyonight&hide_border=true&langs_count=8" />
+</p>
+
+<!---->
+
+<p align="center">
+  <img width="98%" src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=hZanela&theme=tokyonight"/>
+</p>
+
+<p align="center">
+  <img width="49%" src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=hZanela&theme=tokyonight"/>
+  <img width="49%" src="https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=hZanela&theme=tokyonight&utcOffset=5.5"/>
+</p>
+
+<p align="center">
+  <img width="49%" src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=hZanela&theme=tokyonight"/>
+  <img width="49%" src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=hZanela&theme=tokyonight"/>
+</p>
+
+## 📈 Contribution Graph
+
+<p align="center">
+  <img width="100%" src="https://github-readme-activity-graph.vercel.app/graph?username=hZanela&theme=tokyo-night&hide_border=true&line=00E5FF&point=FFFFFF&area=true&area_color=00E5FF&color=00E5FF&title_color=00E5FF&bg_color=1A1B27"/>
+</p>
+
+
+COBRA
+<p align="center">
+  
+</p>
+
+
+
+
+
+
+
+
+## 📋 GitHub Profile Summary
+
+<p align="center">
+  <img height="32" src="https://komarev.com/ghpvc/?username=Sairaj2033&label=PROFILE+VIEWS&style=for-the-badge&labelColor=181717&color=8B5CF6"/>
+</p>
+
+<br>
+
+
+<p align="center">
+  <img src="https://img.shields.io/badge/dynamic/json?style=for-the-badge&logo=github&logoColor=white&label=REPOSITORIES&labelColor=181717&color=F43F5E&query=public_repos&url=https://api.github.com/users/Sairaj2033"/>
+  &nbsp;&nbsp;&nbsp;&nbsp;
+  <img src="https://img.shields.io/github/followers/Sairaj2033?style=for-the-badge&logo=github&logoColor=white&label=FOLLOWERS&labelColor=181717&color=38BDF8"/>
+  &nbsp;&nbsp;&nbsp;&nbsp;
+  <img src="https://img.shields.io/github/stars/Sairaj2033?affiliations=OWNER&style=for-the-badge&logo=github&logoColor=white&label=STARS&labelColor=181717&color=22C55E"/>
+</p>
+
+<p align="center">
+  ⭐ <b>Connect with <a href="https://github.com/Sairaj2033">Sairaj Patil</a></b> ⭐
+</p>
+
+<p align="center">
+  <i>"Turning ideas into intelligent solutions, one commit at a time!"</i> 🚀
+</p>
+
+---
+
+
+<p align="center">
+  <img src="https://camo.githubusercontent.com/6b9c2a342f778248d0e947a1a4e7d332e59dadc140de25650cd23d2dd45a86f6/68747470733a2f2f6d656469612e67697068792e636f6d2f6d656469612f4c6e516a7057614f4e386e68723231764e572f67697068792e676966" width="52" valign="middle"/>
+  &nbsp;
+  <i><b>I love connecting with different people so if you want to say hi, I'll be happy to meet you! 😊<b></i>
+</p>
+
+
+
+
+
+
+
+<p align="center">
+  <img
+    width="100%"
+    src="https://capsule-render.vercel.app/api?type=waving&section=footer&height=150&text=Thanks%20for%20Visiting!&fontSize=24&fontColor=ffffff&animation=fadeIn&color=D1D5DB"
+  />
+</p>
+
+
+
+
+<p align="center">
+  <img width="100%" src="https://raw.githubusercontent.com/Sairaj2033/Sairaj2033/main/assets/Open to Collaboration_20260712_014150_0000.png"/>
+</p>
