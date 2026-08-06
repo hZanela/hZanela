@@ -8,11 +8,11 @@
 ==============================================
 -->
 
-<img width="100%" src="/assets/Sairaj_Banner.png"/>
+
 
 
 <p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Poppins&weight=600&size=24&duration=3500&pause=900&color=7AA2F7&center=true&vCenter=true&width=700&lines=Artificial+Intelligence+%26+Machine+Learning;Full+Stack+MERN+Developer;Building+AI+Powered+Systems;Open+Source+Contributor;Data+Structure+Algorithm;Always+Learning+Something+New+%F0%9F%9A%80" />
+  <img src="https://readme-typing-svg.herokuapp.com?font=Poppins&weight=600&size=24&duration=3500&pause=900&color=7AA2F7&center=true&vCenter=true&width=700&lines=Transformando+ideias+em+c%C3%B3digo;Construindo+meu+futuro+na+tecnologia;Um+commit+de+cada+vez;Sempre+aprendendo%2C+sempre+evoluindo+%F0%9F%9A%80" />
 </p>
 
 
@@ -111,29 +111,12 @@ const Heitor Zanela = {
 ## 📊 Estáticas GitHub 
 
 <p align="center">
-  <img width="49%" src="https://github-readme-stats.vercel.app/api?username=hZanela&show_icons=true&theme=tokyonight&hide_border=true&rank_icon=github&include_all_commits=true&count_private=true" />
   <img width="49%" src="https://streak-stats.demolab.com?user=hZanela&theme=tokyonight&hide_border=true" />
 </p>
 
-<p align="center">
-  <img width="40%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=hZanela&layout=compact&theme=tokyonight&hide_border=true&langs_count=8" />
-</p>
 
-<!---->
 
-<p align="center">
-  <img width="98%" src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=hZanela&theme=tokyonight"/>
-</p>
 
-<p align="center">
-  <img width="49%" src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=hZanela&theme=tokyonight"/>
-  <img width="49%" src="https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=hZanela&theme=tokyonight&utcOffset=5.5"/>
-</p>
-
-<p align="center">
-  <img width="49%" src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=hZanela&theme=tokyonight"/>
-  <img width="49%" src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=hZanela&theme=tokyonight"/>
-</p>
 
 <picture>
   <source media="(prefers-color-scheme: dark)"
