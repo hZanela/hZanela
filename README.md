@@ -62,7 +62,7 @@ const heitor = {
 
 <td width="50%" align="center">
 
-<img src="https://i.pinimg.com/736x/30/ab/49/30ab497081151ed5fdf8afd7c798b8e1.jpg" width="360"/>
+<img src="assets/redninja.gif" width="360"/>
 
 </td>
 </tr>
