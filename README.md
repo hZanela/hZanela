@@ -1,6 +1,6 @@
 
 <p align="center">
-<img src="assets/headerAizen.png"/>
+<img src="assets/banner_github"/>
 </p>
 
 
