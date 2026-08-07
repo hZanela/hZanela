@@ -173,7 +173,7 @@ src="https://github-readme-activity-graph.vercel.app/graph?username=hZanela&them
 </p>
 
 <p align="center">
-<img src="assets/fotter.png"/>
+<img src="assets/footer.png"/>
 </p>
 
 
